@@ -6,4 +6,5 @@ Truly random numbers for Python3
 Import nmp, and have something like:
 
 > number = nmp.num()
+
 > print(num)
