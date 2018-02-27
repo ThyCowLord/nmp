@@ -8,8 +8,10 @@ Run this command:
 > sudo bash <(curl -l -S https://git.io/vAKp7)
 
 ## Usage
-Import nmp, and have something like:
+The number generator command is nmp.num(). Here is an example:
 
 > number = nmp.num()
 
-> print(num)
+> print(number)
+
+> xxxxxxxxxxxxx 
