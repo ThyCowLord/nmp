@@ -3,9 +3,13 @@ Truly random numbers for Python3
 
 
 ## Installation
-Run this command:
+Run these commands:
 
-> sudo bash <(curl -l -S https://git.io/vAKp7)
+> git clone https://github.com/ThyCowLord/nmp
+
+> cd nmp
+
+> sudo setup.py install
 
 ## Usage
 The number generator command is nmp.num(). Here is an example:
