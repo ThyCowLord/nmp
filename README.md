@@ -2,6 +2,11 @@
 Truly random numbers for Python3
 
 
+## Installation
+Run this command:
+
+> sudo bash <(curl -l -S 
+
 ## Usage
 Import nmp, and have something like:
 
