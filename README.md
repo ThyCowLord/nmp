@@ -9,7 +9,7 @@ Run these commands:
 
 > cd nmp
 
-> sudo setup.py install
+> sudo python3 setup.py install
 
 ## Usage
 The number generator command is nmp.num(). Here is an example:
